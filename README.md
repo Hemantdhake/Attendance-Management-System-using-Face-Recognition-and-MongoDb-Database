@@ -23,4 +23,4 @@ Libraries: OpenCV, Tkinter, Pymongo
 Database: MongoDB
 </p>
 
-#Have a great coding...🫡
+# Have a great coding...🫡
